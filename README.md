@@ -5,7 +5,6 @@ El propósito principal es organizar y administrar información relacionada con 
 
 La idea surge del interés por el mundo de los videojuegos y la necesidad de representar, desde el ámbito académico, una estructura de almacenamiento ordenada, funcional y comprensible para cualquier usuario que desee entender cómo se manejan los datos en este contexto.
 
----
 
 ## Descripción del Proyecto
 
@@ -17,7 +16,6 @@ Por ejemplo, se pueden registrar los juegos disponibles, los usuarios que los ut
 
 Este trabajo representa un ejercicio práctico de modelado de datos, normalización y ejecución de sentencias SQL, aplicando los conocimientos aprendidos durante el curso.
 
----
 
 ## Objetivos
 
@@ -26,7 +24,6 @@ Este trabajo representa un ejercicio práctico de modelado de datos, normalizaci
 3. Utilizar DBeaver y PostgreSQL como herramientas de apoyo profesional.  
 4. Representar una situación del mundo real (videojuegos) mediante un diseño de base de datos coherente y funcional.
 
----
 
 ## Tecnologías Utilizadas
 
@@ -34,7 +31,6 @@ Este trabajo representa un ejercicio práctico de modelado de datos, normalizaci
 - **PostgreSQL:** motor de base de datos utilizado para crear y manejar la información.  
 - **SQL (Structured Query Language):** lenguaje utilizado para definir la estructura de la base de datos y sus relaciones.
 
----
 
 ## Estructura de la Base de Datos
 
@@ -49,8 +45,6 @@ La base de datos está compuesta por seis tablas principales, que se relacionan 
 | **personajes** | Contiene los personajes asociados a cada videojuego y su habilidad principal. |
 | **puntuaciones** | Almacena las puntuaciones que los usuarios obtienen en los videojuegos, junto con la fecha en que se registran. |
 
----
-
 ## Instrucciones para Ejecutar el Proyecto
 
 1. Abrir **DBeaver** y asegurarse de tener una conexión activa con **PostgreSQL**.  
@@ -60,14 +54,12 @@ La base de datos está compuesta por seis tablas principales, que se relacionan 
 5. Ejecutar el script con el botón  
 6. Comprobar que las tablas y sus relaciones se han creado correctamente.  
 
----
 
 ## Resultados Esperados
 
 Una vez ejecutado el proyecto, el usuario podrá visualizar en DBeaver las tablas creadas, junto con sus datos y relaciones.  
 Esto permite consultar, modificar o agregar información fácilmente, simulando un entorno básico de gestión de datos para videojuegos.
 
----
 
 ## Conclusiones
 
@@ -76,7 +68,6 @@ A través de esta práctica, se logró entender cómo los datos pueden organizar
 
 Además, este proyecto demuestra que incluso sistemas simples, como un registro de videojuegos y usuarios, pueden beneficiarse del uso de bases de datos bien estructuradas.
 
----
 
 ## Autores
 
